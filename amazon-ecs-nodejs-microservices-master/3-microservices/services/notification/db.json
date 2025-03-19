@@ -1,0 +1,18 @@
+{
+  "notifications": [
+    {
+      "id": 1,
+      "to": "user1@example.com",
+      "subject": "Welcome to our platform",
+      "text": "Thank you for signing up!",
+      "status": "sent"
+    },
+    {
+      "id": 2,
+      "to": "user2@example.com",
+      "subject": "New Feature Update",
+      "text": "Check out the new features we've added!",
+      "status": "pending"
+    }
+  ]
+}

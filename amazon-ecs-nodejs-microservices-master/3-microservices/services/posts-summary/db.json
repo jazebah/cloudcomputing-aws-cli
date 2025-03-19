@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "thread": 1,
+      "text": "Has anyone checked on the lich recently?",
+      "user": 4,
+      "timestamp": "2024-03-10T08:30:00Z"
+    },
+    {
+      "id": 2,
+      "thread": 1,
+      "text": "I'll stop by and see how he's doing tomorrow!",
+      "user": 2,
+      "timestamp": "2024-03-10T09:15:00Z"
+    },
+    {
+      "id": 3,
+      "thread": 2,
+      "text": "Come party with the candy people tomorrow!",
+      "user": 3,
+      "timestamp": "2024-03-10T14:45:00Z"
+    }
+  ]
+}
